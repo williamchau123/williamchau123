@@ -14,7 +14,7 @@ I'm William (Billy) Chau, and I am studying in University of Toronto with Comp S
 
 ### 歡迎來到我的Github網頁 👋
 
-我叫William，不過大家都叫我Billy。我現在就讀於多倫多大學的計算機與統計學雙學士學位。
+我叫William，大家都叫我Billy。我現在就讀於多倫多大學的計算機與統計學雙學士學位。
 
 - 我現在在做的一些項目：
   - VIAplanner https://github.com/VIAplanner / https://timetable.viaplanner.ca/timetable
