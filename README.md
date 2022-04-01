@@ -1,6 +1,6 @@
 ### Welcome to my github page 👋
 
-Hello viewer!
+Welcome!
 I'm William (Billy) Chau, and I am studying in University of Toronto with Comp Sci and Stat double major. 
 
 - 🔭 I’m currently working on:
