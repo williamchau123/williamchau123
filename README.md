@@ -7,9 +7,9 @@ I'm William (Billy) Chau, and I am studying in University of Toronto with Comp S
   - VIAplanner https://github.com/VIAplanner / https://timetable.viaplanner.ca/timetable
   - The NeighboorHoop (Coming Up!)
 - 🌱 I’m currently learning:
-  - Vuex - The mutation fucntions are confusing to me :sweat_smile:
+  - Vuex - The mutation functions are confusing to me :sweat_smile:
   - Flutter - Our main language to build *The NeighboorHoop*
-  - Web scraping - Its interesting to see how many treasures on hidden unfound online
+  - Web scraping - Its interesting to see how many treasures are hidden and unfound online
   - and many more!
 
 ### 歡迎來到我的Github網頁 👋
