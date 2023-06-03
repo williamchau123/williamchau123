@@ -1,11 +1,8 @@
 ### Welcome to my github page 👋
 
 Welcome!
-I'm William (Billy) Chau, and I am studying in University of Toronto with Comp Sci and Stat double major. 
+I'm William (Billy) Chau, and I just graduated from University of Toronto with Bachelor of Science on Comp Sci and Stats. 
 
-- 🔭 I’m currently working on:
-  - VIAplanner https://github.com/VIAplanner / https://timetable.viaplanner.ca/timetable
-  - The NeighboorHoop (Coming Up!)
 - 🌱 I’m currently learning:
   - Vuex - The mutation functions are confusing to me :sweat_smile:
   - Flutter - Our main language to build *The NeighboorHoop*
@@ -14,11 +11,8 @@ I'm William (Billy) Chau, and I am studying in University of Toronto with Comp S
 
 ### 歡迎來到我的Github網頁 👋
 
-我叫William，大家都叫我Billy。我現在就讀於多倫多大學的計算機與統計學雙學士學位。
+我叫William，大家都叫我Billy。我畢業於多倫多大學的計算機與統計學雙學士學位。
 
-- 我現在在做的一些項目：
-  - VIAplanner https://github.com/VIAplanner / https://timetable.viaplanner.ca/timetable
-  - The NeighboorHoop (還在開發中)
 - 我現在在學的一些技術：
   - Vuex
   - Flutter
