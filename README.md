@@ -4,9 +4,8 @@ Welcome!
 I'm William (Billy) Chau, and I just graduated from University of Toronto with Bachelor of Science on Comp Sci and Stats. 
 
 - 🌱 I’m currently learning:
-  - Vuex - The mutation functions are confusing to me :sweat_smile:
-  - Flutter - Our main language to build *The NeighboorHoop*
-  - Web scraping - Its interesting to see how many treasures are hidden and unfound online
+  - AWS
+  - Selenium
   - and many more!
 
 ### 歡迎來到我的Github網頁 👋
@@ -14,9 +13,8 @@ I'm William (Billy) Chau, and I just graduated from University of Toronto with B
 我叫William，大家都叫我Billy。我畢業於多倫多大學的計算機與統計學雙學士學位。
 
 - 我現在在學的一些技術：
-  - Vuex
-  - Flutter
-  - 網站爬蟲
+  - AWS
+  - Selenium
   
 How to connect with me/如何與我聯係：
 Linkedln: https://www.linkedin.com/in/william-chau-798b44193/
